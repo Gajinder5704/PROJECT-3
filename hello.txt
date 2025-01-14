@@ -1,2 +1,3 @@
-new conflict
 
+new conflict
+third branch CONFLICT
